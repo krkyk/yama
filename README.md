@@ -1,24 +1,28 @@
-# README
+# <山好きのコミュニティサイト>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+### サイトテーマ
+<自分の登った山や山ごはんの写真を投稿できたり人の投稿を検索できる、登山初心者やのんびり登山が好きな人たちのためのコミュニティサイト>
 
-Things you may want to cover:
+### テーマを選んだ理由
+<登山が好きなので同じ登山好きの同士と交流できるサイトを作りたいと思いました。個人的に、本格的なストイック登山よりのんびり登山の方が好きなため、同じようにのんびり登山が好きな人同士で登った山や山ごはんの紹介ができるサイトがあればいいなと思いました。>
 
-* Ruby version
+### ターゲットユーザ
+<ゆるりと山登りを楽しみたい人たち>
 
-* System dependencies
+### 主な利用シーン
+<気になる山や山ごはんを検索したり、自分が登った山や山ごはんの投稿ができる。>
 
-* Configuration
+## 設計書
+<...>
 
-* Database creation
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 使用素材
+- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
+- 使用しない場合は、使用素材の項目をREADMEから削除してください。
